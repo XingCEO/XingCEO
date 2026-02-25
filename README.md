@@ -4,15 +4,28 @@
 
 </div>
 
-## About
+<div align="center">
 
-Full-stack engineer focused on Apple platform development, AI-integrated systems, and scalable SaaS architecture. I build production-grade applications that combine modern frontend frameworks with intelligent backend pipelines — from on-device Core ML inference to cloud-based LLM orchestration.
+### About
 
-Currently exploring hybrid AI architectures that balance local privacy with cloud capability, and shipping tools for the Taiwan financial market.
+</div>
 
-## Tech Stack
+<p align="center">
+Full-stack engineer focused on Apple platform development, AI-integrated systems, and scalable SaaS architecture.<br/>
+I build production-grade applications that combine modern frontend frameworks with intelligent backend pipelines —<br/>
+from on-device Core ML inference to cloud-based LLM orchestration.
+</p>
 
-**Languages**
+<p align="center">
+Currently exploring hybrid AI architectures that balance local privacy with cloud capability,<br/>
+and shipping tools for the Taiwan financial market.
+</p>
+
+---
+
+<div align="center">
+
+### Languages
 
 ![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -21,7 +34,7 @@ Currently exploring hybrid AI architectures that balance local privacy with clou
 ![Objective--C](https://img.shields.io/badge/Objective--C-0d1117?style=flat-square&logo=apple&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-**Apple Platforms**
+### Apple Platforms
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0d1117?style=flat-square&logo=swift&logoColor=06B6D4)
 ![UIKit](https://img.shields.io/badge/UIKit-0d1117?style=flat-square&logo=apple&logoColor=147EFB)
@@ -33,7 +46,7 @@ Currently exploring hybrid AI architectures that balance local privacy with clou
 ![SPM](https://img.shields.io/badge/SPM-0d1117?style=flat-square&logo=swift&logoColor=F05138)
 ![Xcode](https://img.shields.io/badge/Xcode-0d1117?style=flat-square&logo=xcode&logoColor=147EFB)
 
-**Frameworks & Runtime**
+### Frameworks & Runtime
 
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
@@ -43,7 +56,7 @@ Currently exploring hybrid AI architectures that balance local privacy with clou
 ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
 ![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
 
-**AI & Machine Learning**
+### AI & Machine Learning
 
 ![Claude API](https://img.shields.io/badge/Claude_API-0d1117?style=flat-square&logo=anthropic&logoColor=D4A574)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
@@ -56,7 +69,7 @@ Currently exploring hybrid AI architectures that balance local privacy with clou
 ![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=anthropic&logoColor=D4A574)
 ![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=databricks&logoColor=FF3621)
 
-**Infrastructure**
+### Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
@@ -68,15 +81,13 @@ Currently exploring hybrid AI architectures that balance local privacy with clou
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
+</div>
+
 ---
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&dates=8b949e" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" width="90%"/>
 </div>
 
 ---
