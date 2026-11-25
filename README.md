@@ -99,7 +99,7 @@ EMT-1 初級救護技術員重點複習頁。
 <br/>
 
 <div align="center">
-<sub>Taiwan 🇹🇼 · Open to collaboration</sub>
+<sub>Based in Taiwan · Open to collaboration</sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" />
