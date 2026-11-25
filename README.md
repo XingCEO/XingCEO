@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Terry&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20·%20AI%20Agents%20·%20Developer%20Tools&descAlignY=60&descSize=18" />
+<h1 align="center">Hi, I'm Terry 👋</h1>
+
+<p align="center">
+  <b>Full-stack developer</b> building AI agents, developer tools, and web &amp; mobile apps.
+</p>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Self-taught+developer+from+Taiwan;Building+AI+agents+%26+developer+tools;Web+%C2%B7+Mobile+%C2%B7+Fintech" />
-
-<br/><br/>
 
 <a href="mailto:xingzong.tw@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://solo.to/xmaswu._.0112"><img src="https://img.shields.io/badge/Links-0d1117?style=for-the-badge&logo=linktree&logoColor=white" /></a>
@@ -69,5 +69,3 @@ Recycling reward platform — user and vendor Android apps with full JWT session
 <div align="center">
 <sub>Based in Taiwan · Open to collaboration</sub>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" />
