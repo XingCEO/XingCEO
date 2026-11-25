@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Self-taught+developer+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BC;Building+AI+agents+%26+developer+tools;Web+%C2%B7+Mobile+%C2%B7+Self-hosted+apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Self-taught+developer+from+Taiwan;Building+AI+agents+%26+developer+tools;Web+%C2%B7+Mobile+%C2%B7+Fintech" />
 
 <br/><br/>
 
@@ -20,11 +20,21 @@
 <td width="50%" valign="top">
 
 ### [superstar-team](https://github.com/XingCEO/superstar-team)
-One command, five Opus agents — a full-stack AI dev team for Claude Code.
+One command, five Opus agents — a fully automated, full-stack AI dev team for Claude Code.
 
 `Shell` `Claude Code` `Multi-agent`
 
 </td>
+<td width="50%" valign="top">
+
+### [MeowStock 喵喵選股](https://github.com/XingCEO/cat_system)
+台股客製化選股系統 — 多維度條件選股、K 線技術指標、策略回測與一鍵匯出。
+
+`FastAPI` `React` `pandas` `Docker`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ktv-party](https://github.com/XingCEO/ktv-party)
@@ -33,40 +43,12 @@ KTV party platform with WebSocket rooms, YouTube ingestion, Demucs vocal removal
 `FastAPI` `Next.js` `WebSocket`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [recycle-platform-android](https://github.com/XingCEO/recycle-platform-android)
-Recycling reward platform — user and vendor Android apps with full session recovery.
+Recycling reward platform — user and vendor Android apps with full JWT session recovery.
 
 `Kotlin` `Jetpack Compose` `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-### [invoice-scanner](https://github.com/XingCEO/invoice-scanner)
-台灣電子發票 QR 掃描工具，自動分類並寫入 Google Sheets 報支單。
-
-`TypeScript` `Google Sheets`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [github-agent-template](https://github.com/XingCEO/github-agent-template)
-用 GitHub Actions 免費算力跑 AI 自動化任務，不需要本機電腦。
-
-`Python` `GitHub Actions`
-
-</td>
-<td width="50%" valign="top">
-
-### [emt1-review](https://github.com/XingCEO/emt1-review)
-EMT-1 初級救護技術員重點複習頁。
-
-`HTML` `Study tool`
 
 </td>
 </tr>
@@ -74,24 +56,10 @@ EMT-1 初級救護技術員重點複習頁。
 
 <br/>
 
-## 🧪 Open Lab
-
-<sub>Small, offline-first, MIT-licensed tools — each one solves one specific problem.</sub>
-
-| AI Agent Tooling | Data & Systems | Self-hosted Commerce |
-|---|---|---|
-| [agent-trace-ledger](https://github.com/XingCEO/agent-trace-ledger) | [sqlite-migration-rehearsal](https://github.com/XingCEO/sqlite-migration-rehearsal) | [shift-ledger-pos](https://github.com/XingCEO/shift-ledger-pos) |
-| [patch-scope-guard](https://github.com/XingCEO/patch-scope-guard) | [wasm-import-contract](https://github.com/XingCEO/wasm-import-contract) | [reserve-cart](https://github.com/XingCEO/reserve-cart) |
-| [evidence-link-audit](https://github.com/XingCEO/evidence-link-audit) | [zarr-chunk-budget](https://github.com/XingCEO/zarr-chunk-budget) | |
-| [tool-replay-lab](https://github.com/XingCEO/tool-replay-lab) | [robot-inertia-diff](https://github.com/XingCEO/robot-inertia-diff) | |
-| [mcp-contract-diff](https://github.com/XingCEO/mcp-contract-diff) | | |
-
-<br/>
-
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,swift,kotlin,nextjs,react,nodejs,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,py,kotlin,swift,react,nextjs,nodejs,fastapi&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,supabase,postgres,docker,githubactions,vercel,linux&theme=dark" />
 </p>
